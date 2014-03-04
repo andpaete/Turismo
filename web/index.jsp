@@ -34,7 +34,7 @@
 					<div class="wrapper">
 						<nav>
 							<ul id="top_nav">
-								<li><a href="#">Register</a></li>
+								<li><a href="registro.jsp">Register</a></li>
 								<li><a href="#">Log In</a></li>
 								<li><a href="#">Help</a></li>
 							</ul>
@@ -46,9 +46,9 @@
 				<ul id="menu">
 					<li><a href="index.html" class="nav1">Home</a></li>
 					<li><a href="About.html" class="nav2">About Us </a></li>
+                                        <li class="end"><a href="ind_1.jsp" class="nav5">index Ale</a></li>
 					<li><a href="Tours.html" class="nav3">Todos los tours</a></li>
 					<li><a href="Destinations.html" class="nav4">Destinations</a></li>
-					<li class="end"><a href="Contacts.html" class="nav5">Contacts</a></li>
 				</ul>
 			</nav>
 			<article class="col1">
